@@ -1,0 +1,2 @@
+class Greeting < ActiveRecord
+end
